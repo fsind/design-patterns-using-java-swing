@@ -4,6 +4,7 @@
   - design-pattern-singleton
   - design-pattern-memory-or-database
   - design-pattern-dao-for-multiple-database
+  - design-pattern-log-adapter
 
 ## Credits:
 
