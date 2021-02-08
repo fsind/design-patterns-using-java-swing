@@ -1,5 +1,3 @@
-# design-patterns-using-java-swing
-
 ## Sequence to follow
   - design-pattern-mvc
   - design-pattern-observer
